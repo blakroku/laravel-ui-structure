@@ -2,9 +2,9 @@
 
 namespace Blakroku\LaravelUiStructure\Tests;
 
+use Blakroku\LaravelUiStructure\LaravelUiStructureServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Blakroku\LaravelUiStructure\LaravelUiStructureServiceProvider;
 
 class TestCase extends Orchestra
 {

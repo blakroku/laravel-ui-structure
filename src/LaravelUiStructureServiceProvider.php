@@ -2,9 +2,9 @@
 
 namespace Blakroku\LaravelUiStructure;
 
+use Blakroku\LaravelUiStructure\Commands\LaravelUiStructureCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Blakroku\LaravelUiStructure\Commands\LaravelUiStructureCommand;
 
 class LaravelUiStructureServiceProvider extends PackageServiceProvider
 {
