@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Blakroku\LaravelUiStructure\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelUiStructureCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-ui-structure';
 
     public $description = 'My command';
 
